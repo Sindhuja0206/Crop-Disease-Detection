@@ -3,6 +3,9 @@
 A web-based tool to **detect crop diseases from plant leaf images** using deep learning image classification.  
 This project helps in **automating plant disease diagnosis**, which can reduce time, cost, and human effort in identifying diseases in agricultural crops.
 
+Live demo:
+https://huggingface.co/spaces/sindhujaaa/Crop_Disease_Detection
+
 ---
 
 ## 🧠 Overview
